@@ -1,0 +1,4 @@
+# 참고
+https://blog.naver.com/PostView.nhn?blogId=gustn3964&logNo=221431714122
+# gpu 사용 파라미터
+https://www.kaggle.com/code/vinhnguyen/accelerating-hyper-parameter-searching-with-gpu/notebook
